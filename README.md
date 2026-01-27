@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Sevval 👋
 
-<!--
-**sevval-koseoglu/sevval-koseoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MIS student at Haliç University  
+📊 Currently learning Data Analysis and SQL  
+🗄️ Interested in databases, business processes, and information systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Working On
+- Improving my SQL and database skills  
+- Learning the fundamentals of data analysis  
+- Building small practice projects to strengthen my technical foundation  
+
+---
+
+### 🛠️ Skills I'm Developing
+`SQL` · `Data Analysis` · `Databases` · `Information Systems` · `Business Analysis`
+
+---
+
+### 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/sevval-koseoglu)
