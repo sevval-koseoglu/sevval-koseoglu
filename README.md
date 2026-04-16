@@ -18,23 +18,22 @@ I am a Management Information Systems student focused on the intersection of bus
 
 ### Data Analysis & Databases
 
-SQL (MySQL): Database design , complex querying, and data manipulation.
-Data Processing: Cleaning, transformation, and exploration to drive data-driven decisions.
-Visualization: Creating dashboards and visual reports to interpret business insights.
+* **SQL (MySQL):** Database design , complex querying, and data manipulation.
+* **Data Processing:** Cleaning, transformation, and exploration to drive data-driven decisions.
+* **Visualization:** Creating dashboards and visual reports to interpret business insights.
 
 ### Development & Systems
 
-Web Systems: Building responsive interfaces with HTML, CSS, and JavaScript.
-AI-Assisted Dev: Leveraging AI tools (Cursor) for rapid application prototyping and task management systems.
-Agile Frameworks: Applying Scrum and Agile methodologies for project lifecycle management.
+* **Web Systems:** Building responsive interfaces with HTML, CSS, and JavaScript.
+* **AI-Assisted Dev:** Leveraging AI tools (Cursor) for rapid application prototyping and task management systems.
+* **Agile Frameworks:** Applying Scrum and Agile methodologies for project lifecycle management.
 
 ### Programming & Tools
 
-Languages: SQL, Python, HTML/CSS, JavaScript.
-Tools: Git, GitHub, Microsoft Office, Cursor
-
+* **Languages:** SQL, Python, HTML/CSS, JavaScript.
+* **Tools:** Git, GitHub, Microsoft Office, Cursor
 ---
 
 ## 💬 Connect With Me  
-* [LinkedIn](https://www.linkedin.com/in/sevval-koseoglu)
-* [eMail](mailto:sevvalkoseoglu_@hotmail.com)
+* **LinkedIn:** [linkedin.com/in/sevval-koseoglu](https://www.linkedin.com/in/sevval-koseoglu)
+* **Email:** [sevvalkoseoglu_@hotmail.com](mailto:sevvalkoseoglu_@hotmail.com)
