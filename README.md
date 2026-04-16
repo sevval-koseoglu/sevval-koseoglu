@@ -1,15 +1,15 @@
-# Hi, I'm Şevval Köseoğlu 👋
+# Hi, I'm Şevval 👋
 
-I am a Management Information Systems student focused on the intersection of business logic, technology, and data. I enjoy exploring how data-driven insights can solve complex problems and optimizing workflows through technical solutions
+I am a **Management Information Systems student** focused on the intersection of business logic, technology, and data. I enjoy exploring how data driven insights can solve complex problems and optimizing workflows through technical solutions.
 
 ---
 
 ## 🌱 Interests
-* **Data Science & Analytics:** Extracting insights and building end to end processing pipelines.
-* **Database Management:** Designing and optimizing structured data systems using SQL.
-* **Web Systems & UX:** Creating responsive interfaces with a focus on user navigation.
-* **AI Assisted Development:** Leveraging modern AI tools to accelerate software prototyping.
-* **Agile Methodologies:** Implementing Scrum frameworks for efficient project lifecycles.
+* Data Science & Analytics
+* Database Management
+* Web Systems & UX
+* AI Assisted Development
+* Agile Methodologies
 
 ---
 
@@ -23,7 +23,7 @@ I am a Management Information Systems student focused on the intersection of bus
 
 ### Development & Systems
 
-* **End To End Systems:** Developing API structures and preprocessing pipelines for model integration.
+* **End to End Systems:** Developing API structures and preprocessing pipelines for model integration.
 * **Web Systems:** Building responsive interfaces with HTML, CSS, and JavaScript.
 * **Agile Management:** Actively using GitHub Projects for sprint planning, backlog grooming, and tracking technical debt.
 
