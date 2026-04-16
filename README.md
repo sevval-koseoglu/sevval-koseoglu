@@ -14,7 +14,7 @@ I am a Management Information Systems student focused on the intersection of bus
 
 ---
 
-## 🛠 Technical Background 
+## 👾 Technical Background 
 
 ### Data Analysis & Databases
 
@@ -35,6 +35,6 @@ Tools: Git, GitHub, Microsoft Office, Cursor
 
 ---
 
-## 🔗 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/sevval-koseoglu)
-[eMail](mailto:sevvalkoseoglu_@hotmail.com)
+## 💬 Connect With Me  
+* [LinkedIn](https://www.linkedin.com/in/sevval-koseoglu)
+* [eMail](mailto:sevvalkoseoglu_@hotmail.com)
