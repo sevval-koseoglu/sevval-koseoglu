@@ -8,7 +8,6 @@ I am a **Management Information Systems student** focused on the intersection of
 * Data Science & Analytics
 * Database Management
 * Web Systems & UX
-* AI Assisted Development
 * Agile Methodologies
 
 ---
