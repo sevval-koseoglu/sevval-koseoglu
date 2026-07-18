@@ -1,6 +1,6 @@
 # Hi, I'm Şevval 👋
 
-Management Information Systems student interested in the intersection of **business, technology, and data**. I enjoy building practical software solutions, exploring data-driven decision making, and developing applications that combine analytical thinking with modern technologies.
+Management Information Systems student interested in the intersection of business, technology, and data. Passionate about building practical software solutions, analyzing data, and developing applications that solve real-world problems.
 
 ---
 
@@ -16,7 +16,7 @@ Management Information Systems student interested in the intersection of **busin
 
 ## 👾 Technical Background
 
-- Building data-driven applications and software projects
+- Developing software applications and data-driven solutions
 - Data cleaning, preprocessing, exploratory data analysis, and visualization
 - Machine learning model development and evaluation
 - Database design and SQL
