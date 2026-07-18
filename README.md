@@ -22,7 +22,9 @@ Management Information Systems student interested in the intersection of **busin
 - Database design and SQL
 - Responsive web development
 
-### 💻 Programming & Tools
+---
+
+## 💻 Programming & Tools
 
 - **Programming & Web:** SQL, Python, HTML, CSS, JavaScript, C#
 - **Data & ML:** Data Cleaning, EDA, Data Visualization, Model Training, Model Evaluation
