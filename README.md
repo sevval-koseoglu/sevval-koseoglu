@@ -1,32 +1,38 @@
 # Hi, I'm Şevval 👋
 
-I am a **Management Information Systems student** focused on the intersection of business logic, technology, and data. I enjoy exploring how data driven insights can solve complex problems and optimizing workflows through technical solutions.
+Management Information Systems student interested in the intersection of **business, technology, and data**. I enjoy building practical software solutions, exploring data-driven decision making, and developing applications that combine analytical thinking with modern technologies.
 
 ---
 
 ## 🌱 Interests
-* Data Science & Analytics
-* Database Management
-* Web Systems & UX
-* Agile Methodologies
+
+- Data Science & Analytics
+- Software Development
+- Business Technology
+- Databases
+- Agile Development
 
 ---
 
-## 👾 Technical Background 
+## 👾 Technical Background
 
-### Data Analysis & Databases
+### Machine Learning & Data
 
-* **Exploratory Data Analysis (EDA):** Performing deep dive analysis, data cleaning, and feature engineering to uncover trends.
-* **SQL (MySQL):** Database design, complex querying, and structured data manipulation.
-* **Visualization:** Creating dashboards and visual reports to interpret business insights.
+- Building end-to-end machine learning pipelines
+- Data cleaning, preprocessing, feature engineering, and EDA
+- Classification and regression model development
+- Model evaluation and comparison
+- Data visualization and business insight generation
 
-### Development & Systems
+### Development
 
-* **End to End Systems:** Developing API structures and preprocessing pipelines for model integration.
-* **Web Systems:** Building responsive interfaces with HTML, CSS, and JavaScript.
-* **Agile Management:** Actively using GitHub Projects for sprint planning, backlog grooming, and tracking technical debt.
+- REST API development with FastAPI
+- Data preprocessing pipelines
+- Responsive web development
+- Database design and SQL querying
 
 ### Programming & Tools
 
-* **Languages:** SQL, Python, HTML/CSS, JavaScript.
-* **Tools:** Git, GitHub, Microsoft Excel, Cursor.
+- **Programming & Web:** SQL, Python, HTML, CSS, JavaScript, C#
+- **Data & ML:** Data Cleaning, EDA, Data Visualization, Model Training, Model Evaluation
+- **Tools:** MySQL, Excel, Jupyter Notebook, Git & GitHub
