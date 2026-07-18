@@ -16,22 +16,13 @@ Management Information Systems student interested in the intersection of **busin
 
 ## 👾 Technical Background
 
-### Machine Learning & Data
-
-- Building end-to-end machine learning pipelines
-- Data cleaning, preprocessing, feature engineering, and EDA
-- Classification and regression model development
-- Model evaluation and comparison
-- Data visualization and business insight generation
-
-### Development
-
-- REST API development with FastAPI
-- Data preprocessing pipelines
+- Building data-driven applications and software projects
+- Data cleaning, preprocessing, exploratory data analysis, and visualization
+- Machine learning model development and evaluation
+- Database design and SQL
 - Responsive web development
-- Database design and SQL querying
 
-### Programming & Tools
+### 💻 Programming & Tools
 
 - **Programming & Web:** SQL, Python, HTML, CSS, JavaScript, C#
 - **Data & ML:** Data Cleaning, EDA, Data Visualization, Model Training, Model Evaluation
